@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">particle</string>
+    <string name="start_setup">Start Setup</string>
+    <string name="read_variable">Read Variable</string>
+</resources>
